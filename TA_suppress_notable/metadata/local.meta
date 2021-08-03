@@ -1,0 +1,5 @@
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 8.1.2
+modtime = 1627984116.897474000
